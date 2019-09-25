@@ -1,0 +1,16 @@
+{
+  "name": "modal-noscroll-helper",
+  "version": "1.0.11",
+  "description": "用于解决显示弹窗时，锁定页面，防止背景页面一直可以滑动",
+  "main": "static/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waiyyy/modal-noscroll-helper.git"
+  },
+  "author": "waiyyy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waiyyy/modal-noscroll-helper/issues"
+  },
+  "homepage": "https://github.com/waiyyy/modal-noscroll-helper#readme"
+}
